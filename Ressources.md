@@ -1,1 +1,3 @@
 to do renseigner des ressources.....
+
+- [Qu'est-ce qu'on fait ?!](https://www.qqf.fr/) - Comprendre mieux pour agir plus
